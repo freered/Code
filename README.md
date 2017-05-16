@@ -1,16 +1,19 @@
-# Code
+# Freered/Code 
+## The largest community place for sharing Red scripts.
 
 [![Join the chat at https://gitter.im/free-red/Code](https://badges.gitter.im/free-red/Code.svg)](https://gitter.im/free-red/Code?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# The largest community place for sharing Red scripts.
+* Everybody can share his/her Red code here
 
-Everybody can share his/her Red code here.
+* All is about sharing and reuse of code, therefor license of the code may not be restrictive 
 
-Because all is about sharing and reuse of code the license of the code may not be restrictive. 
+* This is freered, a header just consisting of "Red []" is fine with us
 
-And because this is freered, a header just consisting of "Red []" is fine with us.
+* No enforcement of code guidelines, though clean style code is encouraged
 
-Also important to know is that the scripts here may not be reviewed, and as such you are adviced to make sure that the code you download is not malicious in any way. If you happen to come across any code you do not trust, please do not hesitate to inform us.
+We hope you will come to share your code here with us and appreciate that others shared their code here as well.
+
+Important to know is that the scripts here may not be reviewed, and as such you are adviced to make sure that the code you download is not malicious in any way. If you happen to come across any code you do not trust, please do not hesitate to inform us.
 
 Disclaimer
 
