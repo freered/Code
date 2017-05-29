@@ -3,8 +3,6 @@
 
 [![Join the chat at https://gitter.im/freered/Code](https://badges.gitter.im/freered/Code.svg)](https://gitter.im/freered/Code?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Join the chat at https://gitter.im/free-red/Code](https://badges.gitter.im/free-red/Code.svg)](https://gitter.im/free-red/Code?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 * Everybody can share his/her Red code here
 
 * All is about sharing and reuse of code, therefor license of the code may not be restrictive 
